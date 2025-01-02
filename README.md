@@ -2,7 +2,7 @@
 
 ###
 <div align="center">
-  <img align="left" width="90" height="26" src="https://komarev.com/ghpvc/?username=Justagwas&abbreviated=true&label=Visitors%20-&color=5ba3ea&style=flat&label=VIEWS" alt="justagwas" />
+  <img align="left" height="28" src="https://komarev.com/ghpvc/?username=Justagwas&abbreviated=true&label=Visitors%20-&color=5ba3ea&style=flat&label=VIEWS" alt="justagwas" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
@@ -22,6 +22,7 @@
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
+  <img width="111" />
 </div>
 
 ###
