@@ -1,9 +1,8 @@
 <h1 align="center" style="display: inline;">Crafting Digital Solutions and Physical Creations</h1>
 
 ###
-
-<img align="left" height="28" src="https://komarev.com/ghpvc/?username=justagwas&label=Visitors%20-&color=5ba3ea&style=flat" alt="justagwas" />
 <div align="center">
+  <img align="left" width="90" height="26" src="https://komarev.com/ghpvc/?username=Justagwas&abbreviated=true&label=Visitors%20-&color=5ba3ea&style=flat&label=VIEWS" alt="justagwas" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
@@ -46,14 +45,13 @@
 
 ###
 
-<h2 align="center">⌛ Statistics ⌛</h2>
+<h2 align="center">📊 Contribution Graph 📊</h2>
 
 ###
 
 <div align="center">
- 
-  <img src="https://github-readme-stats.vercel.app/api?username=Justagwas&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&order=1" height="180" alt="stats graph"  />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Justagwas&radius=16&theme=modern-lilac&area=true&order=5&hide_border=false&bg_color=0&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
+
 
 ###
