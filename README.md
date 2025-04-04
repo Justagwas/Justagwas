@@ -56,7 +56,7 @@
 
 <h2 align="left">💭 Insights of Mine</h2>
 
-> "You won't get hurt if you don't try, however, you won't win either."
+> "When life takes a turn, turn with it, adapt, overcome."
 
 ###
 
