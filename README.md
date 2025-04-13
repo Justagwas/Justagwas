@@ -30,11 +30,11 @@
 
 - **[YouTube Converter](https://github.com/Justagwas/YouTube-Converter)**  
   A lightweight Python app to convert and download YouTube videos (via URL) in MP3, MP4, or other formats.  
-  ![Python](https://img.shields.io/badge/-Python-yellow?style=flat) ![yt-dlp](https://img.shields.io/badge/-yt--dlp-lightgrey?style=flat)
+  ![Python](https://img.shields.io/badge/-Python-yellow?style=flat) ![yt-dlp](https://img.shields.io/badge/-yt--dlp-lightgrey?style=flat) ![FFmpeg](https://img.shields.io/badge/-FFmpeg-green?style=flat)
 
 - **[MP3 TO MIDI (UNRELEASED)](https://github.com/Justagwas)**  
   Advanced program which uses `TBA` to turn MP3 INTO MIDI, currently in development stage.  
-  ![Python](https://img.shields.io/badge/-Python-yellow?style=flat) ![AI-Learning](https://img.shields.io/badge/-AI--Learning-blue?style=flat)
+  ![Python](https://img.shields.io/badge/-Python-yellow?style=flat) ![Artificial Intelligence](https://img.shields.io/badge/-Artificial_Intelligence-blue?style=flat)
 
 ###
 
