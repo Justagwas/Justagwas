@@ -28,8 +28,8 @@
 
 <h2 align="left">🌟 Featured Projects</h2>
 
-- **[YouTube Converter](https://github.com/Justagwas/YouTube-Converter)**  
-  A lightweight Python app to convert and download YouTube videos (via URL) in MP3, MP4, or other formats.  
+- **[Media Downloader](https://github.com/Justagwas/Media-Downloader)**  
+  An application that enables you to download most media video/audio from a URL into your desired format, such as MP3, MP4, or others. 
   ![Python](https://img.shields.io/badge/-Python-yellow?style=flat) ![yt-dlp](https://img.shields.io/badge/-yt--dlp-lightgrey?style=flat) ![FFmpeg](https://img.shields.io/badge/-FFmpeg-green?style=flat)
 
 - **[MP3 TO MIDI (UNRELEASED)](https://github.com/Justagwas)**  
