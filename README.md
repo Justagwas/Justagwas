@@ -62,7 +62,7 @@
 
 <h2 align="left">🌐 Contact Me</h2>
 
-Reach out via [Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=contact@justagwas.com) or [Discord](https://discord.com/users/1155879509145440286)! Also, visit my website [Justagwas.com](https://www.justagwas.com) for more information.
+Reach out via [Email](mailto:contact@justagwas.com)! Also, visit my website [Justagwas.com](https://www.justagwas.com) for more information.
 
 ###
 
