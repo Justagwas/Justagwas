@@ -40,7 +40,7 @@
 
 <h2 align="left">🛠️ Daily Toolkit</h2>
 
-- **Development**: C++, Python, Visual Studio, Microsoft Visual Studio 2022
+- **Development**: C++, Python, Visual Studio, Microsoft Visual Studio 2026
 - **Design**: Blender, Krita, Photoshop
 - **Cloud & Productivity**: Azure, Cloudflare, GitHub Desktop, Microsoft 365
 
