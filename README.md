@@ -66,4 +66,4 @@ Reach out via [Email](mailto:contact@justagwas.com)! Also, visit my website [Jus
 
 ###
 
-If you find my projects useful, consider sponsoring me [here](https://buymeacoffee.com/justagwas). Your support helps keep things running!
+If you find my projects useful, consider sponsoring me [here](https://github.com/sponsors/Justagwas). Your support helps keep things running!
