@@ -62,7 +62,7 @@
 
 <h2 align="left">🌐 Contact Me</h2>
 
-Reach out via [Email](mailto:contact@justagwas.com)! Also, visit my website [Justagwas.com](https://www.justagwas.com) for more information.
+Reach out via [Email](mailto:email@justagwas.com)! Also, visit my website [Justagwas.com](https://www.justagwas.com) for more information.
 
 ###
 
