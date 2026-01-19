@@ -28,13 +28,13 @@
 
 <h2 align="left">🌟 Featured Projects</h2>
 
-- **[Universal Media Downloader](https://github.com/Justagwas/UMD)**  
-  An application that enables you to download most media video/audio from a URL into your desired format, such as MP3, MP4, or others.
-  ![Python](https://img.shields.io/badge/-Python-yellow?style=flat) ![yt-dlp](https://img.shields.io/badge/-yt--dlp-lightgrey?style=flat) ![FFmpeg](https://img.shields.io/badge/-FFmpeg-green?style=flat)
+- **[Universal Media Downloader](https://github.com/Justagwas/UMD)**   
+  An application that enables you to download most media video/audio from a URL into your desired format, such as MP3, MP4, or others.  
+  ![Python](https://img.shields.io/badge/-Python-yellow?style=flat) ![yt-dlp](https://img.shields.io/badge/-yt--dlp-lightgrey?style=flat) ![FFmpeg](https://img.shields.io/badge/-FFmpeg-green?style=flat)  
 
-- **[MP3 TO MIDI (UNRELEASED)](https://github.com/Justagwas)**  
+- **[MP3 TO MIDI (UNRELEASED)](https://github.com/Justagwas)**   
   Advanced program which uses `TBA` to turn MP3 INTO MIDI, currently in development stage.  
-  ![Python](https://img.shields.io/badge/-Python-yellow?style=flat) ![Artificial Intelligence](https://img.shields.io/badge/-Artificial_Intelligence-blue?style=flat)
+  ![Python](https://img.shields.io/badge/-Python-yellow?style=flat) ![Artificial Intelligence](https://img.shields.io/badge/-Artificial_Intelligence-blue?style=flat)   
 
 ###
 
