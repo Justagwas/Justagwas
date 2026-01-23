@@ -43,11 +43,11 @@
   </p>
 
   <p align="center">
-    ⋯
+    •
     <a href="https://www.justagwas.com">www.justagwas.com</a>
     <span>&nbsp;•&nbsp;</span>
     <a href="mailto:email@justagwas.com">email@justagwas.com</a>
-    ⋯
+    •
   </p>
 </td>
   </tr>
