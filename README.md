@@ -11,7 +11,7 @@
   <tr>
     <td valign="top" width="58%" style="padding: 16px; border: 1px solid #2f2f2f; border-radius: 12px;">
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aDQ3aGRxOHRzcHdvc3UyZXR2bXRnZTR5ZmtoZXc1MDJwNGdmcmVoZiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif" width="48" align="right" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aDQ3aGRxOHRzcHdvc3UyZXR2bXRnZTR5ZmtoZXc1MDJwNGdmcmVoZiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif" width="48" align="right" style="margin-left: 12px; margin-bottom: 8px;" />
 
  <p>
     My work so far has centered around desktop tools, projects, and documentation — work that often starts as "I need this" and turns into "maybe others will too."
