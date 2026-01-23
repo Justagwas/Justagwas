@@ -1,69 +1,49 @@
-<h1 align="center" style="display: inline;">Crafting Digital Solutions and Physical Creations</h1>
+<h1 align="left">
+  Hi, I’m Justin.
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="72" align="right" />
+</h1>
 
-<div align="center">
-  <img align="left" height="28" src="https://komarev.com/ghpvc/?username=Justagwas&abbreviated=true&label=Visitors%20-&color=5ba3ea&style=flat&label=VISITS" alt="justagwas" />
-  <img src="https://skillicons.dev/icons?i=windows" height="30" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="30" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=blender" height="30" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dart" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=lua" height="30" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=photoshop" height="30" alt="photoshop logo"  />
-  <img width="111" />
-</div>
+<p align="left">
+  Working across different projects, keeping things practical, simple, and user-focused.
+</p>
 
-###
+<table width="100%">
+  <tr>
+    <!-- LEFT CARD -->
+    <td valign="top" width="58%" style="padding: 16px; border: 1px solid #2f2f2f; border-radius: 12px;">
 
-<h2 align="left">🌟 Featured Projects</h2>
+  <!-- optional cozy accent -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aDQ3aGRxOHRzcHdvc3UyZXR2bXRnZTR5ZmtoZXc1MDJwNGdmcmVoZiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif" width="48" align="right" />
 
-- **[MediaCrate](https://github.com/Justagwas/mediacrate)**   
-  An application that enables you to download most media video/audio from a URL into your desired format, such as MP3, MP4, or others.  
-  ![Python](https://img.shields.io/badge/-Python-yellow?style=flat) ![yt-dlp](https://img.shields.io/badge/-yt--dlp-lightgrey?style=flat) ![FFmpeg](https://img.shields.io/badge/-FFmpeg-green?style=flat)  
+ <p>
+    My work so far has centered around desktop tools, projects, and documentation — work that often starts as "I need this" and turns into "maybe others will too."
+  </p>
+  
+  <p>
+    Alongside development, I work on related projects and maintain an archive of published work, focusing on keeping everything practical, clear, and consistently improving.
+  </p>
 
-- **[A2M (UNRELEASED)](https://github.com/Justagwas)**   
-  Advanced program which uses `Trained Inference Models` to turn AUDIO INTO MIDI, currently in development stage.  
-  ![Python](https://img.shields.io/badge/-Python-yellow?style=flat) ![Artificial Intelligence](https://img.shields.io/badge/-Artificial_Intelligence-blue?style=flat)   
+  <!-- Icon row -->
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=windows,py,lua,kotlin,java,flutter,pytorch,visualstudio,vscode,androidstudio,blender,photoshop,cloudflare,azure&theme=dark" />
+  </p>
+</td>
 
-###
+<td width="14"></td>
 
-<h2 align="left">🛠️ Daily Toolkit</h2>
+<!-- RIGHT CARD -->
+<td valign="top" width="42%" style="padding: 16px; border: 1px solid #2f2f2f; border-radius: 12px;">
+  <p align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=Justagwas&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=45,0d1117,151a23&icon_color=7aa2f7&text_color=c9d1d9&title_color=c9d1d9&card_width=460" />
+  </p>
 
-- **Development**: C++, Python, Visual Studio, Microsoft Visual Studio 2026
-- **Design**: Blender, Krita, Photoshop
-- **Cloud & Productivity**: Azure, Cloudflare, GitHub Desktop, Microsoft 365
-
-###
-
-<h2 align="left">📊 Contribution Graph</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Justagwas&radius=16&theme=modern-lilac&area=true&order=5&hide_border=false&bg_color=0&hide_title=true" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<h2 align="left">💭 Insights of Mine</h2>
-
-> "When life takes a turn, turn with it, adapt, overcome."
-
-###
-
-<h2 align="left">🌐 Contact Me</h2>
-
-Reach out via [Email](mailto:email@justagwas.com)! Also, visit my website [Justagwas.com](https://www.justagwas.com) for more information.
-
-###
-
-If you find my projects useful, consider sponsoring me [here](https://github.com/sponsors/Justagwas). Your support helps keep things running!
+  <p align="center">
+    ⋯
+    <a href="https://www.justagwas.com">www.justagwas.com</a>
+    <span>&nbsp;•&nbsp;</span>
+    <a href="mailto:email@justagwas.com">email@justagwas.com</a>
+    ⋯
+  </p>
+</td>
+  </tr>
+</table>
