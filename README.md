@@ -39,7 +39,7 @@
 
 <td valign="top" width="40%" style="padding: 16px; border: 1px solid #2f2f2f; border-radius: 12px;">
   <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=Justagwas&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=45,0d1117,151a23&icon_color=7aa2f7&text_color=c9d1d9&title_color=c9d1d9&card_width=460" />
+    ![GitHub stats](./profile/stats.svg)
   </p>
 
   <p align="center">
