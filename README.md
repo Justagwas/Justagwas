@@ -39,7 +39,7 @@
 
 <td valign="top" width="40%" style="padding: 16px; border: 1px solid #2f2f2f; border-radius: 12px;">
   <p align="left">
-    ![GitHub stats](./profile/stats.svg)
+    <img src=profile/stats.svg/>
   </p>
 
   <p align="center">
